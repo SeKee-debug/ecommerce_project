@@ -32,7 +32,7 @@ Python was used to clean and enrich the raw data:
 ## Tools
 - **Python**: pandas, numpy, matplotlib
 - **SQL / PostgreSQL**: multi-table joins, KPI aggregation, business analysis
-- **Dashboard packaging**: generated static dashboard visuals for portfolio presentation
+- Visualization**: generated static dashboard visuals using Tableau
 
 ## Key Results
 ### 1) Platform Performance
