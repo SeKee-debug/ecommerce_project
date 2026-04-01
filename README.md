@@ -54,7 +54,7 @@ The main preprocessing workflow is documented in:
 - **Python**: pandas, numpy, matplotlib
 - **SQL / PostgreSQL**: joins, CTEs, KPI aggregation, segmentation, business analysis
 - **Jupyter Notebook**: data cleaning and feature engineering
-
+- **tableau**: creating dashboards
 ---
 
 ## Repository Structure
