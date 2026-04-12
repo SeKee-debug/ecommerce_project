@@ -1,4 +1,4 @@
-# End-to-End E-commerce Analytics: Operations, Logistics, and Customer Experience
+#E-commerce Analytics: Operations, Logistics, and Customer Experience
 
 ## Project Overview
 This project analyzes the **Olist Brazilian e-commerce dataset** to evaluate platform performance from multiple business angles, including order volume, GMV, logistics reliability, regional performance, product category health, seller quality, and customer retention.
